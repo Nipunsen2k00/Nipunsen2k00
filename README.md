@@ -65,6 +65,20 @@
 
 ---
 
+### 📅 Commit Activity  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nipunsen2k00&theme=tokyo-night" alt="nipunsen2k00 activity graph" />
+</p>
+
+---
+
+### 🐍 Commit Eating Snake  
+<p align="center">
+  <img src="https://github.com/nipunsen2k00/nipunsen2k00/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ### 💡 Quote of the Day  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
@@ -75,4 +89,3 @@
 <p align="center">
   ✨ *"Code is like humor. When you have to explain it, it’s bad."* ✨  
 </p>
-
